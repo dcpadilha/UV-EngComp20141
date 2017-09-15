@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#4daf51</color>
+
+    <color name="black">#000000</color>
+
+    <color name="tela1">#eceff1</color>
+    <color name="tela2">#04bcd4</color>
+    <color name="tela3">#05a9f4</color>
+    <color name="tela4">#2397f3</color>
+    <color name="tela5">#4052b5</color>
+
+    <color name="dot_dark_tela1">#babdbe</color>
+    <color name="dot_dark_tela2">#028ca4</color>
+    <color name="dot_dark_tela3">#027bc1</color>
+    <color name="dot_dark_tela4">#026ac0</color>
+    <color name="dot_dark_tela5">#022b85</color>
+
+
+    <color name="dot_light_tela1">#ffffff</color>
+    <color name="dot_light_tela2">#63efff</color>
+    <color name="dot_light_tela3">#68daff</color>
+    <color name="dot_light_tela4">#6fc6ff</color>
+    <color name="dot_light_tela5">#767ee8</color>
+
+    <array name="dot_active">
+        <item>@color/dot_light_tela1</item>
+        <item>@color/dot_light_tela2</item>
+        <item>@color/dot_light_tela3</item>
+        <item>@color/dot_light_tela4</item>
+        <item>@color/dot_light_tela5</item>
+
+    </array>
+
+    <array name="dot_inactive">
+        <item>@color/dot_dark_tela1</item>
+        <item>@color/dot_dark_tela2</item>
+        <item>@color/dot_dark_tela3</item>
+        <item>@color/dot_dark_tela4</item>
+        <item>@color/dot_dark_tela5</item>
+    </array>
+
+</resources>
